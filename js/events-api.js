@@ -1,4 +1,3 @@
-
 export async function loadEvents(url = './events.json') {
   const response = await fetch(url);
 
