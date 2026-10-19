@@ -1,0 +1,43 @@
+
+[
+  {
+    "title": "Web Development Workshop",
+    "category": "Tech",
+    "date": "2026-11-05",
+    "location": "Room A",
+    "capacity": 30,
+    "registered": 22
+  },
+  {
+    "title": "Football Tournament",
+    "category": "Sports",
+    "date": "2026-11-07",
+    "location": "Sports Hall",
+    "capacity": 40,
+    "registered": 22
+  },
+  {
+    "title": "Career Planning",
+    "category": "Career",
+    "date": "2026-11-10",
+    "location": "Room B",
+    "capacity": 50,
+    "registered": 35
+  },
+  {
+    "title": "Cultural Day",
+    "category": "Culture",
+    "date": "2026-11-12",
+    "location": "Main Hall",
+    "capacity": 40,
+    "registered": 39
+  },
+  {
+    "title": "JavaScript Basics",
+    "category": "Tech",
+    "date": "2026-11-15",
+    "location": "Lab 1",
+    "capacity": 25,
+    "registered": 20
+  }
+]
